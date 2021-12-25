@@ -5,6 +5,8 @@
    1 button to switch menus               3
    1 button to add one in settings        4
    1 button to confirm selection          5
+
+   transistors as cut off for both scl/sda
 */
 
 #include <Wire.h>
